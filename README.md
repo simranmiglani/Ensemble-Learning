@@ -1,1 +1,2 @@
 # Ensemble-Learning
+Classified a moon shaped synthetic dataset with two features (x1 and x2) and two classes (0 or 1) with some added noise. Applied Deciion Tree Classifier to separate the two classes in the moon dataset. Applied the Random Forest Classifier provided in scikit-learn to classify the synthetic moon data. Also applied AdaBoost and Gradient Boosted trees to evaluate the accuracy of the prediction.
